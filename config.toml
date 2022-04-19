@@ -1,0 +1,17 @@
+title = 'Блог'
+baseURL = '/'
+theme = "paper"
+languageCode = 'ru'
+defaultContentLanguage = "ru"
+
+[[menu.main]]
+	identifier = "about"
+	name = "нас"
+	url = "/about/"
+	weight = 10
+
+[[menu.main]]
+	identifier = "contact"
+	name = "Связаться"
+	url = "/contact/"
+	weight = 10
