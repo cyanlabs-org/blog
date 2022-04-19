@@ -6,7 +6,7 @@ defaultContentLanguage = "ru"
 
 [[menu.main]]
 	identifier = "about"
-	name = "нас"
+	name = "О нас"
 	url = "/about/"
 	weight = 10
 
